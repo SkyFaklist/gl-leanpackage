@@ -1,5 +1,9 @@
 # OpenWrt packages feed
 
+## DIRECTIONS!!!
+These packages is the backup form https://github.com/coolsnowwolf/lede
+**AND IT ONLY APPLY IN OPENWRT 18.06!!!!!
+
 ## Description
 
 This is the OpenWrt "packages"-feed containing community-maintained build scripts, options and patches for applications, modules and libraries used within OpenWrt.
